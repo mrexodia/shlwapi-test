@@ -1,4 +1,4 @@
 LIBRARY "api-ms-win-downlevel-shlwapi-l1-1-0"
 EXPORTS
-PathFileExistsA@4
-UrlUnescapeA@16
+PathFileExistsA
+UrlUnescapeA

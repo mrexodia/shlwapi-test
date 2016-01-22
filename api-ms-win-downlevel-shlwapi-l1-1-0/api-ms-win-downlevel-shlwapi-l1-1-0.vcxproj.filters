@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ScyllaTest.cpp">
+    <ClCompile Include="api-ms-win-downlevel-shlwapi-l1-1-0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
