@@ -1,0 +1,3 @@
+LIBRARY "api-ms-win-downlevel-shlwapi-l1-1-0"
+EXPORTS
+UrlEscapeA@16
